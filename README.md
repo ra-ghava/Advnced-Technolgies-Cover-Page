@@ -68,3 +68,4 @@ Advanced Technologies - output
 
 
 
+![advancedtechnologies - output](https://github.com/ra-ghava/Advnced-Technolgies-Cover-Page/assets/146189602/afedf502-a820-4d00-974f-8e51733ba542)
