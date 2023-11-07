@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.advancedtechnologies-carditem {
+    background-color: #ffffff;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px
+}
+
+.advancedtechnologies-carditem {
+    padding: 20px;
+}
+
+.advancedtechnologies-carditem-heading {
+    color: #5752ab;
+    font-size: 28px;
+    font-family: "Bree Serif";
+}
+
+.advancedtechnologies-carditem-description {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.button {
+    height: 40px;
+    width: 138px;
+    background-color: #ffffff;
+    border-width: 1px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: #d7dfe9;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.Savedraft-button {
+    height: 40px;
+    width: 138px;
+    background-color: #5752ab;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: #d7dfe9;
+    font-family: "Roboto";
+    font-size: 14px;
+    margin: 10px;
+}
